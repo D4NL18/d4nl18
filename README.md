@@ -2,7 +2,7 @@
 
 - Curso engenharia de computação no Senai CIMATEC (4/10);
 - Trabalho na CIMATECjr;
-- Atuo nos cargos de desenvolvedor Front-end, coordenador de projetos e acessor de gente e gestão.
+- Atuo nos cargos de desenvolvedor Front-end / Mobile, coordenador de projetos e acessor de gente e gestão.
 
  <div>
   <a href="https://github.com/d4nl18">
