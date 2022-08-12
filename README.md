@@ -1,8 +1,8 @@
 ### Bem vindo ao meu perfil 😁
 
-- Curso engenharia de computação no Senai CIMATEC (4/10);
+- Curso engenharia de computação no Senai CIMATEC (6/10);
 - Trabalho na CIMATECjr;
-- Atuo nos cargos de desenvolvedor Front-end / Mobile, coordenador de projetos e acessor de gente e gestão.
+- Atuo no cargo de desenvolvedor Front-end / Mobile.
 
  <div>
   <a href="https://github.com/d4nl18">
