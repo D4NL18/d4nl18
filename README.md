@@ -2,7 +2,7 @@
 
 - Curso engenharia de computação no Senai CIMATEC (6/10);
 - Trabalho na CIMATECjr;
-- Atuo no cargo de desenvolvedor Front-end / Mobile.
+- Atuo no cargo de desenvolvedor Front-end Web / Mobile.
 
  <div>
   <a href="https://github.com/d4nl18">
