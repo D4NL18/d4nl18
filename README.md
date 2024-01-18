@@ -1,8 +1,9 @@
 ### Bem vindo ao meu perfil 😁
 
-- Curso engenharia de computação no Senai CIMATEC (6/10);
-- Trabalho na CIMATECjr;
-- Atuo no cargo de desenvolvedor Front-end Web / Mobile.
+- Curso engenharia de computação no Senai CIMATEC (9/10);
+- Trabalho como estagiário de Desenvolvimento Front-end na Ford;
+- Experiências com Desenvolvimento Front-end Web e Mobile;
+- Atuo no cargo de desenvolvedor Mobile com React Native.
 
  <div>
   <a href="https://github.com/d4nl18">
