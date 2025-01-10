@@ -1,8 +1,7 @@
-### Bem vindo ao meu perfil 😁
+### Welcome to my profile 😁
 
-- Curso engenharia de computação no Senai CIMATEC (10/10);
-- Trabalho como estagiário de Desenvolvimento Front-end Web na Ford;
-- Experiências com Desenvolvimento Front-end Web (React, Next, Angular) e Mobile (React Native);
+- Graduated in Computer Engineering from SENAI CIMATEC.
+- Front-end web developer specializing in AngularJS and ReactJS. Also experienced in web and mobile development using React Native.
 
  <div>
   <a href="https://github.com/d4nl18">
